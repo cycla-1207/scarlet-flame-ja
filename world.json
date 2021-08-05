@@ -45,5 +45,8 @@
   "coreVersion": "0.8.8",
   "nextSession": null,
   "resetKeys": false,
+  "manifest": "https://raw.githubusercontent.com/BrotherSharper/scarlet-flame-ja/master/world.json",
+  "download": "https://github.com/BrotherSharper/scarlet-flame-ja/archive/master.zip",
+  "url": "https://github.com/BrotherSharper/scarlet-flame-ja",
   "safeMode": false
 }
