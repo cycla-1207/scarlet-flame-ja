@@ -3,6 +3,7 @@
   "title": "紅蓮の炎の中で",
   "description": "<h2>紅蓮の炎の中で</h2>\n<p>サーイのレッド・ウィザード2 人が、密命を帯びて、ソード・コーストの東に広がる&ldquo;荒涼高地&rdquo;に潜入した。彼らは何物かを、あるいは何者かを、探している。風あらき荒涼たる丘</p>\n<p>陵地帯に彼らが求めるものが何であろうと、レッド・ウィザードたちが密かに何かを探している以上、それを速やかに暴くことがレッド・ウィザード以外のあらゆる人々のためになる。2 人を荒野へ案内した傭兵たちですら同意するだろう。誰かが彼らを止めねばならないと。冒険者たちは、レッド・ウィザードたちの跡を追って、荒涼高地の草生い茂るなかにたたずむ1つの塚山に至る。塚にあるウィザードの聖域の遺跡は暴かれたままになっている。聖域の知識と財宝はどうなるのか、それはキャラクターたち次第だ。注意して動かねば、事態は制御不能になるかもしれない。</p>\n<p>このダンジョンズ＆ドラゴンズ&reg;用アドベンチャーは8レベル・キャラクター 4 〜6 人用にできている。このアドベンチャーとD&amp;D 基本ルールブックがあれば、ゲームに必要なものはすべて揃う（訳注： 基本ルールブックとは『Player's Handbook』、『Monster Manual』、</p>\n<p>『Dungeon Master's Guide』の3 冊を指す。ただしこのアドベンチャーだけならばホビージャパンのウェブサイト（<a class=\"hyperlink\" href=\"https://hobbyjapan.\" target=\"_blank\" rel=\"nofollow noopener\">https://hobbyjapan.</a> co.jp/dd/news/basic_rule.html）からD&amp;D ベーシック・ルールをダウンロードするだけでも遊べる）。また、『ソード・コースト冒険者ガイド』があれば、フェイルーン世界の荒涼高地についてさらに多くを学べるだろう。</p>",
   "authors": [],
+  "url": "https://github.com/BrotherSharper/scarlet-flame-ja",
   "flags": {},
   "version": "1.0.0",
   "scripts": [],
@@ -12,41 +13,39 @@
   "packs": [],
   "system": "dnd5e",
   "dependencies": [
-   {
-    "name": "dnd5eja",
-    "type": "module",
-    "manifest": "https://raw.githubusercontent.com/BrotherSharper/dnd5eja/master/module.json"
-   },
-   {
-    "name": "midi-qol",
-    "type": "module",
-    "manifest": "https://gitlab.com/tposney/midi-qol/raw/master/package/module.json"
-   },
-   {
-    "name": "dae",
-    "type": "module",
-    "manifest": "https://gitlab.com/tposney/dae/raw/master/package/module.json"
-   },
-   {
-    "name": "actorcatalog",
-    "type": "module",
-    "manifest": "https://raw.githubusercontent.com/BrotherSharper/actorcatalog/master/module.json"
-   },
-   {
-    "name": "theatre",
-    "type": "module",
-    "manifest": "https://github.com/League-of-Foundry-Developers/fvtt-module-theatre/releases/download/latest/module.json"
-   }
-    
+    {
+      "name": "dnd5eja",
+      "type": "module",
+      "manifest": "https://raw.githubusercontent.com/BrotherSharper/dnd5eja/master/module.json"
+    },
+    {
+      "name": "midi-qol",
+      "type": "module",
+      "manifest": "https://gitlab.com/tposney/midi-qol/raw/master/package/module.json"
+    },
+    {
+      "name": "dae",
+      "type": "module",
+      "manifest": "https://gitlab.com/tposney/dae/raw/master/package/module.json"
+    },
+    {
+      "name": "actorcatalog",
+      "type": "module",
+      "manifest": "https://raw.githubusercontent.com/BrotherSharper/actorcatalog/master/module.json"
+    },
+    {
+      "name": "theatre",
+      "type": "module",
+      "manifest": "https://github.com/League-of-Foundry-Developers/fvtt-module-theatre/releases/download/latest/module.json"
+    }
   ],
   "socket": false,
+  "manifest": "https://raw.githubusercontent.com/BrotherSharper/scarlet-flame-ja/master/world.json",
+  "download": "https://github.com/BrotherSharper/scarlet-flame-ja/archive/master.zip",
   "protected": false,
-  "background": "worlds/scarlet-flame/images/jungle-2292850_1920.jpg",
+  "background": "worlds/scarlet-flame-ja/images/book-2574236_1920.jpg",
   "coreVersion": "0.8.8",
   "nextSession": null,
   "resetKeys": false,
-  "manifest": "https://raw.githubusercontent.com/BrotherSharper/scarlet-flame-ja/master/world.json",
-  "download": "https://github.com/BrotherSharper/scarlet-flame-ja/archive/master.zip",
-  "url": "https://github.com/BrotherSharper/scarlet-flame-ja",
   "safeMode": false
 }
