@@ -37,6 +37,11 @@
       "name": "theatre",
       "type": "module",
       "manifest": "https://github.com/League-of-Foundry-Developers/fvtt-module-theatre/releases/download/latest/module.json"
+    },
+    {
+      "name": "foundryVTTja",
+      "type": "module",
+      "manifest": "https://raw.githubusercontent.com/BrotherSharper/foundryVTTja/master/module.json"
     }
   ],
   "socket": false,
