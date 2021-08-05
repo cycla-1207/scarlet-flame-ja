@@ -37,15 +37,15 @@ https://mtg-jp.com/assets/images/products/dungeons-dragons/01_EP1_Adventure.pdf
 インストールして、プレイヤーを集めて、キャラを作ればそのまま遊べるものです。DMは先に展開だけを軽く読んでおけば遊びやすくなりますがそれ以外の準備は一切必要ないすべてが用意されたワールドです。
 ここにあるダンジョン、マジックアイテム、NPC等のデータ累はすべてここから摘出し自分の別の卓でも使用しても良い。FVTT外で使用する素材利用のドキュメントを読み、それに従うこと。
 
-![image1](images/promo0.jpg)
+![image1](https://raw.githubusercontent.com/BrotherSharper/scarlet-flame-ja/master/images/Promo0.jpg)
 
-![image1](images/promo1.jpg)
+![image2](https://raw.githubusercontent.com/BrotherSharper/scarlet-flame-ja/master/images/Promo1.jpg)
 
-![image1](images/promo2.jpg)
+![image3](https://raw.githubusercontent.com/BrotherSharper/scarlet-flame-ja/master/images/Promo2.jpg)
 
-![image1](images/promo3.jpg)
+![image4](https://raw.githubusercontent.com/BrotherSharper/scarlet-flame-ja/master/images/Promo3.jpg)
 
-![image1](images/promo4.jpg)
+![image5](https://raw.githubusercontent.com/BrotherSharper/scarlet-flame-ja/master/images/Promo4.jpg)
 
 ## 利用素材
 ### シナリオ
