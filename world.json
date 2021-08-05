@@ -42,6 +42,8 @@
   "socket": false,
   "manifest": "https://raw.githubusercontent.com/BrotherSharper/scarlet-flame-ja/master/world.json",
   "download": "https://github.com/BrotherSharper/scarlet-flame-ja/archive/master.zip",
+  "minimumCoreVersion": "0.8.0",
+  "compatibleCoreVersion": "0.8.8",
   "protected": false,
   "background": "worlds/scarlet-flame-ja/images/book-2574236_1920.jpg",
   "coreVersion": "0.8.8",
