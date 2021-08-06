@@ -5,8 +5,10 @@
 {"_id":"H1pitTfIPami03y0","name":"第3部","type":"JournalEntry","parent":null,"sorting":"a","sort":168750,"color":null,"flags":{}}
 {"_id":"Klexwnj0f6VnWJPc","name":"はじめに","type":"JournalEntry","parent":null,"sorting":"m","sort":100000,"color":null,"flags":{}}
 {"_id":"PBfijkG5neHvgHho","name":"第2部","type":"JournalEntry","parent":null,"sorting":"m","sort":165625,"color":null,"flags":{}}
+{"name":"プリロールド","type":"Actor","parent":"pbGpL2Qq22BNFfX7","sorting":"a","sort":0,"color":null,"flags":{},"_id":"PveILbz8wAXZxYSY"}
 {"name":"第3階層","type":"JournalEntry","parent":"PBfijkG5neHvgHho","sorting":"m","sort":0,"color":null,"flags":{},"_id":"WeGwezHwpRSEB0uJ"}
 {"name":"石碑","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"bdZep9nMozbwvJzi"}
+{"name":"プリロールド（武装済み）","type":"Actor","parent":"pbGpL2Qq22BNFfX7","sorting":"a","sort":0,"color":null,"flags":{},"_id":"fa1EOi8eVopvbEyE"}
 {"_id":"mS1qx129IgainsJM","name":"入り口","type":"JournalEntry","parent":"PBfijkG5neHvgHho","sorting":"m","sort":-100000,"color":null,"flags":{}}
 {"_id":"muqfQIzlYMMZPwLs","name":"第1部","type":"JournalEntry","parent":null,"sorting":"m","sort":162500,"color":"","flags":{}}
 {"_id":"pbGpL2Qq22BNFfX7","name":"プレイヤー","type":"Actor","parent":null,"sorting":"a","sort":-100000,"color":null,"flags":{}}

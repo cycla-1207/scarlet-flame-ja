@@ -8,7 +8,7 @@ https://mtg-jp.com/assets/images/products/dungeons-dragons/01_EP1_Adventure.pdf
 
 * **ワールド製作者**: Brother Sharp (ディスコード：Brother Sharp#6921)
 * **対応dnd5eバージョン**: 1.4.1+
-* **ワールドバージョン**: 1.0
+* **ワールドバージョン**: 1.2.0
 
 ### インストール方法
 
