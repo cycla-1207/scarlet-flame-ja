@@ -76,6 +76,11 @@ https://wingless-seraph.net/material-riyoukiyaku.html
 * Peritune
 https://peritune.com/about/
 
+### SRD規約
+ここで使用されているデータはすべてシナリオ本文、ベーシックルール、およびSRDの範囲内に出てくるもののみです。如何なるアレンジもすべてSRDドキュメント5.1 に準じます。
+
+https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf
+
 ### 本体の日本語化
 オンセ工房FoundryVTT本体の日本語化はこちらからどうぞ
 
