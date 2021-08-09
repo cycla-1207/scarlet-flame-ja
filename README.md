@@ -8,7 +8,7 @@ https://mtg-jp.com/assets/images/products/dungeons-dragons/01_EP1_Adventure.pdf
 
 * **ワールド製作者**: Brother Sharp (ディスコード：Brother Sharp#6921)
 * **対応dnd5eバージョン**: 1.4.1+
-* **ワールドバージョン**: 1.2.0
+* **ワールドバージョン**: 1.2.1
 
 ### インストール方法
 
@@ -34,6 +34,10 @@ https://mtg-jp.com/assets/images/products/dungeons-dragons/01_EP1_Adventure.pdf
 
 インストールして、プレイヤーを集めて、キャラを作ればそのまま遊べるものです。DMは先に展開だけを軽く読んでおけば遊びやすくなりますがそれ以外の準備は一切必要ないすべてが用意されたワールドです。
 ここにあるダンジョン、マジックアイテム、NPC等のデータ累はすべてここから摘出し自分の別の卓でも使用しても良い。FVTT外で使用する素材利用のドキュメントを読み、それに従うこと。
+
+注：ハンドアウトがマップにおかれていますが、閲覧するには必ず地点メモをOnにしてください！
+
+![image0]
 
 ![image1](https://raw.githubusercontent.com/BrotherSharper/scarlet-flame-ja/master/images/Promo0.jpg)
 
