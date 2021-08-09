@@ -37,7 +37,7 @@ https://mtg-jp.com/assets/images/products/dungeons-dragons/01_EP1_Adventure.pdf
 
 注：ハンドアウトがマップにおかれていますが、閲覧するには必ず地点メモをOnにしてください！
 
-![image0]
+![image0](https://github.com/BrotherSharper/scarlet-flame-ja/blob/master/images/Mapmemo.jpg)
 
 ![image1](https://raw.githubusercontent.com/BrotherSharper/scarlet-flame-ja/master/images/Promo0.jpg)
 
