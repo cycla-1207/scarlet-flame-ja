@@ -31,11 +31,6 @@
       "manifest": "https://gitlab.com/tposney/dae/raw/master/package/module.json"
     },
     {
-      "name": "actorcatalog",
-      "type": "module",
-      "manifest": "https://raw.githubusercontent.com/BrotherSharper/actorcatalog/master/module.json"
-    },
-    {
       "name": "theatre",
       "type": "module",
       "manifest": "https://github.com/League-of-Foundry-Developers/fvtt-module-theatre/releases/download/latest/module.json"
